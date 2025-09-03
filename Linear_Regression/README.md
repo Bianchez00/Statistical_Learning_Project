@@ -62,4 +62,4 @@ Il progetto è pensato come esercizio pratico di:
 - Python 3.9+
 - Librerie principali:
   ```bash
-  pip install pandas numpy scikit-learn statsmodels matplotlib seaborn
+  pip install -r requirements.txt
